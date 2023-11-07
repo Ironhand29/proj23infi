@@ -33,4 +33,4 @@ Utilização de F-strings:
 Mensagens de Confirmação:
 -Adicionar mensagens de confirmação após a execução de ações bem-sucedidas, para fornecer feedback ao usuário.
 Refatoração:
-- Considere a refatoração do código em partes complexas, como a lógica de aluguel e devolução de livros, para torná-lo mais legível e mais fácil de manter.
+- Considerar a refatoração do código em partes complexas, como a lógica de aluguel e devolução de livros, para torná-lo mais legível e mais fácil de manter.
