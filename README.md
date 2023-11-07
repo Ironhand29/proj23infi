@@ -3,6 +3,7 @@ PROJETOS 2023 - INFINITY
 - Existem 2 projetos atualmente na pasta
 - DESAFIO-BIBLIOTECA ( projeto de um gerenciador de livros)
 - teste-velha ( projeto de Machine Learning utilizando aprendizagem por reforço). ( EM ANÁLISE)
+  (Atualmente em looping para análise de dados.)
 
 DESAFIO-BIBLIOTECA: CHECK LIST DE MELHORIAS A SEREM REALIZADAS ( 07/11/2023 )
 - Adicionar 50 livros a biblioteca [x]
