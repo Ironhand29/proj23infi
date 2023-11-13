@@ -5,20 +5,20 @@ PROJETOS 2023 - INFINITY
 - teste-velha ( projeto de Machine Learning utilizando aprendizagem por reforço). ( EM ANÁLISE)
   (Atualmente em looping para análise de dados.)
 
-DESAFIO-BIBLIOTECA: CHECK LIST DE MELHORIAS A SEREM REALIZADAS ( 07/11/2023 )
-- Adicionar 50 livros a biblioteca [x]
-- Definir biblioteca JSON para que os alugueis, baixas e lista de livros sejam salvos quando o arquivo for fechado.
+DESAFIO-BIBLIOTECA: CHECK LIST DE MELHORIAS A SEREM REALIZADAS [ok](07/11/2023)
+- Adicionar 50 livros a biblioteca [ok](07/11/2023)
+- Definir biblioteca JSON para que os alugueis, baixas e lista de livros sejam salvos quando o arquivo for fechado. [ok](13/11/2023)
 -Modificar a estrutura de dados:
--Criar um novo dicionário chamado biblioteca para rastrear os livros disponíveis na biblioteca. 
--Cada livro pode ser representado como um dicionário com informações como título, autor, quantidade disponível, etc. 
-Além disso, crie um dicionário alugueis para rastrear os aluguéis de livros, associando o usuário ao livro alugado e à data de aluguel.
+-Criar um novo dicionário chamado biblioteca para rastrear os livros disponíveis na biblioteca.  [ok](13/11/2023)
+-Cada livro pode ser representado como um dicionário com informações como título, autor, quantidade disponível, etc. [ok](13/11/2023)
+Além disso, crie um dicionário alugueis para rastrear os aluguéis de livros, associando o usuário ao livro alugado e à data de aluguel. [ok](13/11/2023)
 Organização e Estrutura:
-- Remover a arte ASCII no início do código
-- Mover a definição das funções para o topo do arquivo, logo após as importações, para tornar o código mais organizado.
+- Remover a arte ASCII no início do código [ok](13/11/2023)
+- Mover a definição das funções para o topo do arquivo, logo após as importações, para tornar o código mais organizado. [ok](13/11/2023)
 Tratamento de Exceções:
 - Adicionar tratamento de exceções em partes do código que podem gerar erros, como ao ler ou gravar arquivos, para fornecer mensagens de erro mais amigáveis e evitar falhas inesperadas.
 Comentários:
-- Adicione comentários ao código para explicar o que cada função faz e fornecer informações sobre o propósito de cada bloco de código.
+- Adicione comentários ao código para explicar o que cada função faz e fornecer informações sobre o propósito de cada bloco de código. [ok](13/11/2023)
 Evitar Variáveis Globais:
 - Evitar o uso excessivo de variáveis globais, como conta_logada. Em vez disso, passe essas variáveis como argumentos para as funções que as utilizam.
 Separação de Responsabilidades:
