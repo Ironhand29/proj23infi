@@ -20,15 +20,15 @@ Tratamento de Exceções:
 Comentários:
 - Adicione comentários ao código para explicar o que cada função faz e fornecer informações sobre o propósito de cada bloco de código. [ok](13/11/2023)
 Evitar Variáveis Globais:
-- Evitar o uso excessivo de variáveis globais, como conta_logada. Em vez disso, passe essas variáveis como argumentos para as funções que as utilizam.
+- Evitar o uso excessivo de variáveis globais, como conta_logada. Em vez disso, passe essas variáveis como argumentos para as funções que as utilizam. ok
 Separação de Responsabilidades:
-- Tentar manter as funções com responsabilidades bem definidas. Isso torna o código mais fácil de entender e de depurar.
+- Tentar manter as funções com responsabilidades bem definidas. Isso torna o código mais fácil de entender e de depurar. ok
 Validação de Entrada:
-- Adicionar validação de entrada para garantir que os dados inseridos pelos usuários sejam válidos e seguros. Isso inclui a validação de senhas, títulos de livros, etc.
+- Adicionar validação de entrada para garantir que os dados inseridos pelos usuários sejam válidos e seguros. Isso inclui a validação de senhas, títulos de livros, etc. ok
 Tratamento de Erros:
 -Implementar um tratamento mais robusto de erros e mensagens de erro mais informativas, para que o usuário saiba o que deu errado.
 Melhorias na Manipulação de Dados:
--Usar estruturas de dados apropriadas para representar os usuários, senhas, alugueis e livros em vez de usar dicionários aninhados.
+-Usar estruturas de dados apropriadas para representar os usuários, senhas, alugueis e livros em vez de usar dicionários aninhados. ok
 Utilização de F-strings:
 -Usar f-strings para formatar mensagens e saídas, tornando o código mais legível.
 Mensagens de Confirmação:
